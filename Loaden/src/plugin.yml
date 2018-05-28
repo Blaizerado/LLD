@@ -1,0 +1,224 @@
+name: JoooooEzGG
+version: 1.2.6
+author: ILoveJava
+main: at.ltd.Main
+depend: [Multiverse-Core]
+
+commands:
+  trade:
+    description: ..
+    usage: /<command>
+  spawn:
+    description: ..
+    usage: /<command>
+  coins:
+    description: ..
+    usage: /<command>
+  money:
+    description: ..
+    usage: /<command>
+  vault:
+    description: ..
+    usage: /<command>
+  bewerben:
+    description: ..
+    usage: /<command>
+  shop:
+    description: ..
+    usage: /<command>
+  help:
+    description: ..
+    usage: /<command>
+  hilfe:
+    description: ..
+    usage: /<command>
+  mapvote:
+    description: ..
+    usage: /<command>
+  join:
+    description: ..
+    usage: /<command>
+  lager:
+    description: ..
+    usage: /<command>
+  resetlager:
+    description: ..
+    usage: /<command>
+  buildmode:
+    description: ..
+    usage: /<command>
+  hub:
+    description: ..
+    usage: /<command>
+  lobby:
+    description: ..
+    usage: /<command>
+  setspawns:
+    description: ..
+    usage: /<command>
+  loc:
+    description: ..
+    usage: /<command>
+  leave:
+    description: ..
+    usage: /<command>
+  update:
+    description: ..
+    usage: /<command>
+  pos:
+    description: ..
+    usage: /<command>
+  tr:
+    description: ..
+    usage: /<command>
+  status:
+    description: ..
+    usage: /<command>
+  sounds:
+    description: ..
+    usage: /<command>
+  itemback:
+    description: ..
+    usage: /<command>
+  setlevel:
+    description: ..
+    usage: /<command>
+  setlevelcoins:
+    description: ..
+    usage: /<command>
+  loadlevel:
+    description: ..
+    usage: /<command>
+  tphere:
+    description: ..
+    usage: /<command>
+  tpall:
+    description: ..
+    usage: /<command>
+  test:
+    description: ..
+    usage: /<command>
+  su:
+    description: ..
+    usage: /<command>
+  superuser:
+    description: ..
+    usage: /<command>
+  guns:
+    description: ..
+    usage: /<command>
+  flyspeed:
+    description: ..
+    usage: /<command>
+  configreload:
+    description: ..
+    usage: /<command>
+  giveammo:
+    description: ..
+    usage: /<command>
+  maps:
+    description: ..
+    usage: /<command>
+  timeban:
+    description: ..
+    usage: /<command>
+  rlcf:
+    description: ..
+    usage: /<command>
+  reloadconfig:
+    description: ..
+    usage: /<command>
+  giverocket:
+    description: ..
+    usage: /<command>
+  hellfire:
+    description: ..
+    usage: /<command>
+  shopitem:
+    description: ..
+    usage: /<command>
+  givemoney:
+    description: ..
+    usage: /<command>
+  givegun:
+    description: ..
+    usage: /<command>
+  loclist:
+    description: ..
+    usage: /<command>
+  cc:
+    description: ..
+    usage: /<command>
+  clearchat:
+    description: ..
+    usage: /<command>
+  playerinfo:
+    description: ..
+    usage: /<command>
+  pi:
+    description: ..
+    usage: /<command>
+  unban:
+    description: ..
+    usage: /<command>
+  unbann:
+    description: ..
+    usage: /<command>
+  removeban:
+    description: ..
+    usage: /<command>
+  removebann:
+    description: ..
+    usage: /<command>
+  gi:
+    description: ..
+    usage: /<command>
+  guninfo:
+    description: ..
+    usage: /<command>
+  stopround:
+    description: ..
+    usage: /<command>
+  texturepack:
+    description: ..
+    usage: /<command>
+  stats:
+    description: ..
+    usage: /<command> <player>
+  dumpthread:
+    description: ..
+    usage: /<command> <player>
+permissions:
+    ltd.player:
+        description: toll
+        default: false
+    ltd.Media:
+        description: toll
+        default: false
+    ltd.Testsupp:
+        description: toll
+        default: false
+    ltd.Supporter:
+        description: toll
+        default: false
+    ltd.Event:
+        description: toll
+        default: false
+    ltd.Builder:
+        description: toll
+        default: false
+    ltd.Testmod:
+        description: toll
+        default: false
+    ltd.Mod:
+        description: toll
+        default: false
+    ltd.Admin:
+        description: toll
+        default: false
+    ltd.Developer:
+        description: toll
+        default: false
+    ltd.Inhaber:
+        description: toll
+        default: false
